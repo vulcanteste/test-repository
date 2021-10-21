@@ -1,3 +1,3 @@
 - Hello World
 -- My paragraph
-- My footer
+-- My second paragraph
